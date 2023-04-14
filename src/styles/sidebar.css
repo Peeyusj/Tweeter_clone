@@ -1,0 +1,36 @@
+.sidebarLinks a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 3px 5px 3px 5px;
+    margin-left: 10px;
+    font-weight: bold;
+    
+  }
+  .sidebarLinks li {
+    list-style-type: none;
+    margin: 10px 20px 10px 2px;
+    border-radius: 12px;
+    padding: 3px 0px;
+  }
+ 
+  
+  .sidebarLinks ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding-left: 45px;
+    width: 200px;
+  }
+  #twtbtn{
+    margin-left: 40px;
+    background-color: #0053ffd6;
+    border: none;
+    border-radius: 35px;
+    width: 320%;
+    height: 40px;
+    color: white;
+    font-size: 1.12rem;
+  }
+  
